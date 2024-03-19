@@ -1,0 +1,99 @@
+/** ADD YOUR AWESOME CODES HERE **/
+.blog-img img {
+	height: 250px;
+	width: 100%;
+}
+
+.categories-shop .container .row .shop-cat-box {
+	height: 250px;
+}
+
+.box-img-hover img {
+	height: 230px;
+	width: 100%;
+}
+
+.why-text .product__name {
+	font-weight: bold;
+}
+
+.mask-icon ul li a {
+	height: 40px;
+}
+
+.why-text h3 {
+	text-decoration: none;
+}
+
+.blog-box .blog-content {
+	height: 150px;
+}
+
+.blog-content p {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.products-single .why-text {
+	height: 150px;
+}
+
+.toolbar-sorter-right {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.product-categori {
+	margin-left: 60px;
+}
+
+.product-categori .search-product .form-control {
+	height: 42px;
+	margin-right: 50px;
+}
+
+.product-item-filter {
+	height: 80px;
+	padding-top: 20px;
+	margin-bottom: 30px;
+}
+
+.carousel-item img {
+	height: 300px;
+}
+
+.toolbar-sorter-right-true {
+	width: 220px;
+	height: 200px;
+}
+
+.toolbar-sorter-right-true .bootstrap-select.form-control:not([class*="col-"])
+	{
+	width: 77%;
+	float: left;
+}
+
+.toolbar-sorter-right-true .bootstrap-select.btn-group>.dropdown-toggle
+	{
+	padding: 0px;
+	border-radius: 0px;
+	border: none;
+}
+
+.toolbar-sorter-right-true .bootstrap-select.btn-group .dropdown-toggle .filter-option
+	{
+	padding-left: 60px;
+}
+
+.toolbar-sorter-right-true .btn-light {
+	background: #000000;
+	color: #ffffff;
+}
+
+.toolbar-sorter-right-true .btn-light:hover {
+	background: #006ade;
+	border-radius: 0px;
+	border: none;
+}
