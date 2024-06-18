@@ -282,31 +282,11 @@
 					<div class="blog-box">
 						<div class="blog-img">
 							<img class="img-fluid" height="100%"
-								src="${classpath}/frontend/images/blog-img.jpg" alt="" />
+								src="${classpath}/frontend/images/Blank-Customer-Profile.jpg" alt="" />
 						</div>
 						<div class="blog-content">
 							<div class="title-blog">
-								<h3>MC Trấn Thành</h3>
-								<p>Hải sản tươi ngon, chất lượng phục vụ tốt. Đặc biệt là
-									tôm hùm loại 1 được chọn lọc bởi chính Duy Minh tươi sống, ngon
-									ngọt. Tôi nhất định sẽ quay lại.</p>
-							</div>
-							<ul class="option-blog">
-								<li><a href="#"><i class="far fa-heart"></i></a></li>
-							</ul>
-
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-4 col-xl-4">
-					<div class="blog-box">
-						<div class="blog-img">
-							<img class="img-fluid" height="100%"
-								src="${classpath}/frontend/images/blog-img-01.jpg" alt="" />
-						</div>
-						<div class="blog-content">
-							<div class="title-blog">
-								<h3>Donald J.Trump</h3>
+								<h3>Customer</h3>
 								<p>I highly recommend Duy Minh to seafood enthusiasts
 									seeking the best that Hanoi has to offer. Prepare to be
 									impressed by the exceptional freshness and outstanding service
@@ -324,14 +304,38 @@
 					<div class="blog-box">
 						<div class="blog-img">
 							<img class="img-fluid" height="100%"
-								src="${classpath}/frontend/images/blog-img-02.jpg" alt="" />
+								src="${classpath}/frontend/images/Blank-Customer-Profile.jpg" alt="" />
 						</div>
 						<div class="blog-content">
 							<div class="title-blog">
-								<h3>Jin BTS</h3>
-								<p>Duy Minh의 해산물 선택은 비교할 수 없을 만큼 훌륭하며, 베트남의 깨끗한 바다에서 잡아 올린
-									인상적인 다양하고 신선한 해산물을 자랑합니다. 육즙이 풍부한 새우부터 맛있는 생선까지 각 품목은 최고 품질로
-									우수성에 대한 매장의 의지를 보여줍니다.</p>
+								<h3>Customer</h3>
+								<p>I highly recommend Duy Minh to seafood enthusiasts
+									seeking the best that Hanoi has to offer. Prepare to be
+									impressed by the exceptional freshness and outstanding service
+									that this remarkable shop provides. Best regards, Donald J.
+									Trump</p>
+							</div>
+							<ul class="option-blog">
+								<li><a href="#"><i class="far fa-heart"></i></a></li>
+							</ul>
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4 col-xl-4">
+					<div class="blog-box">
+						<div class="blog-img">
+							<img class="img-fluid" height="100%"
+								src="${classpath}/frontend/images/Blank-Customer-Profile.jpg" alt="" />
+						</div>
+						<div class="blog-content">
+							<div class="title-blog">
+								<h3>Customer</h3>
+								<p>I highly recommend Duy Minh to seafood enthusiasts
+									seeking the best that Hanoi has to offer. Prepare to be
+									impressed by the exceptional freshness and outstanding service
+									that this remarkable shop provides. Best regards, Donald J.
+									Trump</p>
 							</div>
 							<ul class="option-blog">
 								<li><a href="#"><i class="far fa-heart"></i></a></li>

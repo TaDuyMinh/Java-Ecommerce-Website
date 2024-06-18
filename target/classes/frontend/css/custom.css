@@ -1,6 +1,6 @@
 /** ADD YOUR AWESOME CODES HERE **/
 .blog-img img {
-	height: 250px;
+	height: 350px;
 	width: 100%;
 }
 
@@ -26,13 +26,13 @@
 }
 
 .blog-box .blog-content {
-	height: 150px;
+	height: 300px;
 }
 
 .blog-content p {
 	overflow: hidden;
 	text-overflow: ellipsis;
-	white-space: nowrap;
+	white-space: normal;
 }
 
 .products-single .why-text {

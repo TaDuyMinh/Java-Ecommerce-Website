@@ -16,7 +16,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Site Metas -->
-<title>Freshshop - Ecommerce Bootstrap 4 HTML Template</title>
+<title>${title }</title>
+
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
@@ -178,7 +179,7 @@
 							<img src="${classpath}/frontend/images/CEO.jpg" alt="" />
 							<div class="team-content">
 								<h3 class="title">Tạ Duy Minh</h3>
-								<span class="post">Người câu cá</span>
+								<span class="post">Admin</span>
 							</div>
 							<ul class="social">
 								<li><a href="#" class="fab fa-facebook"></a></li>
@@ -202,7 +203,7 @@
 							<img src="${classpath}/frontend/images/CEO.jpg" alt="" />
 							<div class="team-content">
 								<h3 class="title">Tạ Duy Minh</h3>
-								<span class="post">Shipper</span>
+								<span class="post">Customer Support</span>
 							</div>
 							<ul class="social">
 								<li><a href="#" class="fab fa-facebook"></a></li>
