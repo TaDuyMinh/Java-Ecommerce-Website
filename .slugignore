@@ -16,7 +16,6 @@
 /build
 /out
 /.gradle
-/.mvn
 /.settings
 
 # Ignore local environment settings
