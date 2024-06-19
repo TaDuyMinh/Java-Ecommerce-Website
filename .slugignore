@@ -1,7 +1,4 @@
-# Ignore all source files
-/src
-/*.java
-/**/*.java
+
 
 # Ignore IDE configuration files
 /.idea
