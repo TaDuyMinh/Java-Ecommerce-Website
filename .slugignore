@@ -1,19 +1,17 @@
-
-
 # Ignore IDE configuration files
 /.idea
 /.classpath
 /.project
 /.settings
 /*.iml
-/vscode
+/.vscode
 
 # Ignore build system files
 /target
 /build
 /out
 /.gradle
-/.settings
+/.mvn
 
 # Ignore local environment settings
 .env
@@ -30,8 +28,6 @@
 
 # Ignore test resources
 /src/test
-/test
-/tests
 
 # Ignore all PDF files
 *.pdf
