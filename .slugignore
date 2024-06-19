@@ -1,32 +1,41 @@
-*.psd
-*.pdf
+# Ignore all source files
+/src
+/*.java
+/**/*.java
+
+# Ignore IDE configuration files
+/.idea
+/.classpath
+/.project
+/.settings
+/*.iml
+/vscode
+
+# Ignore build system files
+/target
+/build
+/out
+/.gradle
+/.mvn
+/.settings
+
+# Ignore local environment settings
+.env
+*.local
+
+# Ignore documentation
+/docs
+*.md
+*.rst
+
+# Ignore temporary files
+/tmp
+*.log
+
+# Ignore test resources
+/src/test
 /test
-/spec
-# Ignore bundler config.
-/.bundle
+/tests
 
-# Ignore the default SQLite database.
-/db/*.sqlite3
-/db/*.sqlite3-journal
-
-# Ignore all logfiles and tempfiles.
-./log
-./tmp
-./storage
-./public
-./node_modules
-./yarn-error.log
-./heroku
-./vendor
-./vendor/bundle
-./kevin
-./kevin.pug
-./package-lock.json
-./config/environments/database.yml
-./package-lock.json
-./vendor/database.yml
-./public/packs
-./public/packs-test
-./yarn-error.log
-./yarn-debug.log
-.yarn-integrity
+# Ignore all PDF files
+*.pdf
