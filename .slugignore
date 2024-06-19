@@ -1,5 +1,5 @@
-./psd
-./pdf
+*.psd
+*.pdf
 /test
 /spec
 # Ignore bundler config.
